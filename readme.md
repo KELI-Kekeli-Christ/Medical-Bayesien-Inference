@@ -141,6 +141,12 @@ Tous les paramètres sont accessibles dans la **sidebar** de l'application sans 
 
 ---
 
+Pour tester : https://medical-bayesien-inference.streamlit.app/
+
+
+[![Watch the video](https://img.youtube.com/vi/rKSPhcrZsso/0.jpg)](https://youtu.be/rKSPhcrZsso)
+
+
 ## Avertissement
 
 > ⚠️ **Cet outil est à but strictement éducatif.** Il ne constitue en aucun cas un avis médical. Ne pas utiliser pour établir un diagnostic réel. Consultez un professionnel de santé pour tout problème médical.
