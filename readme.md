@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="readme.md"><b>English</b></a>
+  &nbsp;·&nbsp;
+  <a href="README.fr.md">Français</a>
+  &nbsp;·&nbsp;
+  <a href="README.es.md">Español</a>
+</p>
+
 # 🩺 Diagnostic Médical Bayésien
 
 Application Streamlit de diagnostic médical intelligent basée sur un moteur bayésien avec sélection optimale des questions par **Information Gain**.
